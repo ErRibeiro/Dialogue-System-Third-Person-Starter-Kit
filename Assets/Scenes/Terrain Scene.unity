@@ -1105,7 +1105,7 @@ PrefabInstance:
     - target: {fileID: 3594191103014986386, guid: ea40c9261eaf03644a723872fdbf2d9f,
         type: 3}
       propertyPath: overrideName
-      value: Pete
+      value: Mornn
       objectReference: {fileID: 0}
     - target: {fileID: 3594191103014986386, guid: ea40c9261eaf03644a723872fdbf2d9f,
         type: 3}
@@ -3129,12 +3129,17 @@ PrefabInstance:
     - target: {fileID: 762953979944893309, guid: c6ff4cbf768a6154c9c99dfb03d02b25,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.37599945
+      value: 0.44235227
+      objectReference: {fileID: 0}
+    - target: {fileID: 762953979944893309, guid: c6ff4cbf768a6154c9c99dfb03d02b25,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.535294
       objectReference: {fileID: 0}
     - target: {fileID: 762953979944893309, guid: c6ff4cbf768a6154c9c99dfb03d02b25,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.1789732
+      value: -2.9058836
       objectReference: {fileID: 0}
     - target: {fileID: 762953979944893310, guid: c6ff4cbf768a6154c9c99dfb03d02b25,
         type: 3}
@@ -5093,6 +5098,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3594191103014986384, guid: ea40c9261eaf03644a723872fdbf2d9f,
         type: 3}
+      propertyPath: conversation
+      value: TownGard
+      objectReference: {fileID: 0}
+    - target: {fileID: 3594191103014986384, guid: ea40c9261eaf03644a723872fdbf2d9f,
+        type: 3}
       propertyPath: barkConversation
       value: Zac Bark
       objectReference: {fileID: 0}
@@ -5100,6 +5110,11 @@ PrefabInstance:
         type: 3}
       propertyPath: conversation
       value: Zac Bark
+      objectReference: {fileID: 0}
+    - target: {fileID: 3594191103014986386, guid: ea40c9261eaf03644a723872fdbf2d9f,
+        type: 3}
+      propertyPath: overrideName
+      value: Zac
       objectReference: {fileID: 0}
     - target: {fileID: 3594191103014986388, guid: ea40c9261eaf03644a723872fdbf2d9f,
         type: 3}
@@ -5382,7 +5397,7 @@ PrefabInstance:
     - target: {fileID: 3594191103014986384, guid: ea40c9261eaf03644a723872fdbf2d9f,
         type: 3}
       propertyPath: conversation
-      value: Delivering the blacksmith's letter
+      value: 'Guild Master '
       objectReference: {fileID: 0}
     - target: {fileID: 3594191103014986385, guid: ea40c9261eaf03644a723872fdbf2d9f,
         type: 3}
@@ -6322,7 +6337,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 2278741ed7fedbe40a18ffbd3a7785e1,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -13.979118
+      value: -20.931973
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2278741ed7fedbe40a18ffbd3a7785e1,
         type: 3}
@@ -6332,12 +6347,12 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 2278741ed7fedbe40a18ffbd3a7785e1,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 27.073807
+      value: 29.379486
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2278741ed7fedbe40a18ffbd3a7785e1,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.991445
+      value: 0.38268575
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2278741ed7fedbe40a18ffbd3a7785e1,
         type: 3}
@@ -6347,7 +6362,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 2278741ed7fedbe40a18ffbd3a7785e1,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.13052553
+      value: 0.9238786
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2278741ed7fedbe40a18ffbd3a7785e1,
         type: 3}
@@ -6362,7 +6377,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 2278741ed7fedbe40a18ffbd3a7785e1,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 15
+      value: 135
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2278741ed7fedbe40a18ffbd3a7785e1,
         type: 3}
@@ -6647,10 +6662,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1172898770}
     m_Modifications:
+    - target: {fileID: 3594191103014986384, guid: ea40c9261eaf03644a723872fdbf2d9f,
+        type: 3}
+      propertyPath: conversation
+      value: Thief's Dialogue
+      objectReference: {fileID: 0}
+    - target: {fileID: 3594191103014986385, guid: ea40c9261eaf03644a723872fdbf2d9f,
+        type: 3}
+      propertyPath: conversation
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3594191103014986386, guid: ea40c9261eaf03644a723872fdbf2d9f,
+        type: 3}
+      propertyPath: overrideName
+      value: Jurnn
+      objectReference: {fileID: 0}
     - target: {fileID: 3594191103014986387, guid: ea40c9261eaf03644a723872fdbf2d9f,
         type: 3}
       propertyPath: actor
-      value: Mornn
+      value: Jurnn
       objectReference: {fileID: 0}
     - target: {fileID: 3594191103014986389, guid: ea40c9261eaf03644a723872fdbf2d9f,
         type: 3}
