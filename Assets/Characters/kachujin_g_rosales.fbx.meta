@@ -13,7 +13,7 @@ ModelImporter:
       name: kachujin_MAT
     second: {fileID: 2100000, guid: 03ec8b9092c40284b88c588c05418420, type: 2}
   materials:
-    materialImportMode: 1
+    materialImportMode: 2
     materialName: 0
     materialSearch: 1
     materialLocation: 1
